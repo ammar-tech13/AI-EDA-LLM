@@ -1,6 +1,5 @@
+.gradio/
+*.xlsx
+*.pptx
 __pycache__/
 *.pyc
-.env
-.venv/
-venv/
-*.log
